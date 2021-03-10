@@ -25,7 +25,7 @@ const history = useHistory()
       <Link to='/'>
         <img
           className='header__logo'
-          src='https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png'
+          src='https://i.dlpng.com/static/png/6184865-this-post-is-a-part-of-tinder-logo-transparent-background-hd-tinder-logo-png-840_771_preview.png'
           alt='tinderLogo'
         />
       </Link>
